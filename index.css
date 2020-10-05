@@ -4,10 +4,11 @@
 	border-radius: 0%;
 	background-color: lightgreen;
 	font-size: 20px;
-	text-align: center;
+	padding: 10px;
 }
 .icon {
 	width: 30px;
+	vertical-align: middle;
 }
 body {
 	background-color: blue;
